@@ -34,8 +34,17 @@
       <a
         class="mr-5 hover:text-gray-900"
         href="https://eips.ethereum.org/EIPS/eip-2535"
-        target="_blank">Diamond Standard (EIP-2535)</a
+        target="_blank"
       >
+        Diamond Standard (EIP-2535)
+      </a>
+      <a
+        class="mr-5 hover:text-gray-900" 
+        href="https://github.com/mark3labs/louper"
+        target="_blank"
+      >
+        Github
+      </a>
     </nav>
     <div class="flex mt-1 items-center">
       <svg
