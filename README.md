@@ -11,20 +11,15 @@ A simple UI for viewing details about EVM smart contracts using EIP-2535 (Diamon
 
 ## Development
 
-### npm start
+### Prerequisites
 
-Runs the app in the development mode.
-Open http://localhost:8080 to view it in the browser.
+**You will need the following**
 
-The page will reload if you make edits.
-You will also see any lint errors in the console.
-
-### npm run build
-
-Builds a static copy of your site to the `build/` folder.
-Your app is ready to be deployed!
-
-**For the best production performance:** Add a build bundler plugin like [@snowpack/plugin-webpack](https://github.com/snowpackjs/snowpack/tree/main/plugins/plugin-webpack) or [snowpack-plugin-rollup-bundle](https://github.com/ParamagicDev/snowpack-plugin-rollup-bundle) to your `snowpack.config.json` config file.
+- Setup a personal project on https://vercel.com
+- Install the Vercel CLI https://www.npmjs.com/package/vercel
+- Initialize Vercel and link it to your local instance
+- Setup a local instance of Supabase https://supabase.io/docs/guides/local-development
+- You can start the UI by running `npm run start`
 
 License
 -------
