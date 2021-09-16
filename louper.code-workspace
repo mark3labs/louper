@@ -1,0 +1,27 @@
+{
+  "folders": [
+    {
+      "path": "."
+    }
+  ],
+  "settings": {
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.codeActionsOnSave": {
+      "source.fixAll": true
+    },
+    
+    "eslint.alwaysShowStatus": true,
+    "prettier.prettierPath": "_npm/node_modules/prettier",
+    "prettier.configPath": ".prettierrc.json"
+  },
+  "extensions": {
+    "recommendations": [
+      "dbaeumer.vscode-eslint",
+      "editorconfig.editorconfig",
+      "esbenp.prettier-vscode",
+      "svelte.svelte-vscode"
+    ],
+    "unwantedRecommendations": []
+  }
+}
