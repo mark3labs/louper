@@ -19,7 +19,7 @@ module.exports = {
     /* Example: Bundle your final build: */
     bundle: true,
     minify: true,
-    target: ['es2019', 'safari12']
+    target: 'es2019',
   },
   packageOptions: {
     /* ... */
