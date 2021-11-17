@@ -17,6 +17,11 @@
       url: '/?address=0x10e138877df69Ca44Fdc68655f86c88CDe142D7F',
     },
     {
+      name: 'Beanstalk',
+      icon: '/img/beanstalk-logo.png',
+      url: '/?address=0xC1E088fC1323b20BCBee9bd1B9fC9546db5624C5',
+    },
+    {
       name: 'PieDAO',
       icon: '/img/piedao-logo.png',
       url: '/?address=0x17525E4f4Af59fbc29551bC4eCe6AB60Ed49CE31',
