@@ -40,6 +40,11 @@ export const NETWORKS: Record<string, Network> = {
         explorerUrl: 'https://polygonscan.com',
         explorerApiUrl: 'https://api.polygonscan.com/api'
     },
+    mumbai: {
+        rpcUrl: 'https://rpc-mumbai.maticvigil.com/',
+        explorerUrl: 'https://mumbai.polygonscan.com/',
+        explorerApiUrl: 'https://api-testnet.polygonscan.com/api'
+    },
     binance: {
         rpcUrl: "https://bsc-dataseed.binance.org/",
         explorerUrl: "https://bscscan.com",
