@@ -1,3 +1,6 @@
+# !!! THIS REPO HAS BEEN DEPRECATED !!!
+## Please refer to V2 https://github.com/mark3labs/louper-v2
+
 Louper - The Ethereum Diamond Inspector
 ==================
 
